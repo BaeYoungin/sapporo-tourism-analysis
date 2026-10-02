@@ -1,0 +1,43 @@
+# ============================================================
+# .gitignore — git 추적 제외 목록
+# ============================================================
+
+# 환경 변수 / 시크릿
+.env
+.env.*
+!.env.example
+
+# Python 캐시 및 빌드 산출물
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 가상 환경
+.venv/
+venv/
+env/
+ENV/
+
+# pytest 캐시
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 업로드된 임시 파일
+*.tmp

@@ -1,0 +1,806 @@
+{
+  "facilities": [
+    {
+      "slug": "%e8%b5%a4%e3%82%8c%e3%82%93%e3%81%8c-%e3%83%86%e3%83%a9%e3%82%b9",
+      "path": "/spot/facility/%e8%b5%a4%e3%82%8c%e3%82%93%e3%81%8c-%e3%83%86%e3%83%a9%e3%82%b9/"
+    },
+    {
+      "slug": "ainu_center",
+      "path": "/spot/facility/ainu_center/"
+    },
+    {
+      "slug": "amuse-sports",
+      "path": "/spot/facility/amuse-sports/"
+    },
+    {
+      "slug": "aoao",
+      "path": "/spot/facility/aoao/"
+    },
+    {
+      "slug": "ario_sapporo",
+      "path": "/spot/facility/ario_sapporo/"
+    },
+    {
+      "slug": "asahiyama-memorial-park",
+      "path": "/spot/facility/asahiyama-memorial-park/"
+    },
+    {
+      "slug": "black-slide-mantra",
+      "path": "/spot/facility/black-slide-mantra/"
+    },
+    {
+      "slug": "botanic_garden_or_hokkaido_university",
+      "path": "/spot/facility/botanic_garden_or_hokkaido_university/"
+    },
+    {
+      "slug": "bussankyokai",
+      "path": "/spot/facility/bussankyokai/"
+    },
+    {
+      "slug": "chikaho",
+      "path": "/spot/facility/chikaho/"
+    },
+    {
+      "slug": "chitosetsuru",
+      "path": "/spot/facility/chitosetsuru/"
+    },
+    {
+      "slug": "clock_tower",
+      "path": "/spot/facility/clock_tower/"
+    },
+    {
+      "slug": "concert_hall_kitara",
+      "path": "/spot/facility/concert_hall_kitara/"
+    },
+    {
+      "slug": "consadole",
+      "path": "/spot/facility/consadole/"
+    },
+    {
+      "slug": "d-and-department",
+      "path": "/spot/facility/d-and-department/"
+    },
+    {
+      "slug": "dosanko_plaza",
+      "path": "/spot/facility/dosanko_plaza/"
+    },
+    {
+      "slug": "edwin_dun_memorial_museum",
+      "path": "/spot/facility/edwin_dun_memorial_museum/"
+    },
+    {
+      "slug": "former_hokkaido_government_office",
+      "path": "/spot/facility/former_hokkaido_government_office/"
+    },
+    {
+      "slug": "friluftsliv",
+      "path": "/spot/facility/friluftsliv/"
+    },
+    {
+      "slug": "fus_snow_area",
+      "path": "/spot/facility/fus_snow_area/"
+    },
+    {
+      "slug": "gotenzan-park",
+      "path": "/spot/facility/gotenzan-park/"
+    },
+    {
+      "slug": "governors_official_residence",
+      "path": "/spot/facility/governors_official_residence/"
+    },
+    {
+      "slug": "hakkenzan_winery",
+      "path": "/spot/facility/hakkenzan_winery/"
+    },
+    {
+      "slug": "hatsune_miku",
+      "path": "/spot/facility/hatsune_miku/"
+    },
+    {
+      "slug": "hiraoka-park",
+      "path": "/spot/facility/hiraoka-park/"
+    },
+    {
+      "slug": "historical_village_of_hokkaido",
+      "path": "/spot/facility/historical_village_of_hokkaido/"
+    },
+    {
+      "slug": "hoheikan",
+      "path": "/spot/facility/hoheikan/"
+    },
+    {
+      "slug": "hoheikyo_dam",
+      "path": "/spot/facility/hoheikyo_dam/"
+    },
+    {
+      "slug": "hokkaido-museum",
+      "path": "/spot/facility/hokkaido-museum/"
+    },
+    {
+      "slug": "hokkaido-produce-food-select-shop-kita-kitchen-3",
+      "path": "/spot/facility/hokkaido-produce-food-select-shop-kita-kitchen-3/"
+    },
+    {
+      "slug": "hokkaido-shikimarche",
+      "path": "/spot/facility/hokkaido-shikimarche/"
+    },
+    {
+      "slug": "hokkaido_bank_curling_stadium",
+      "path": "/spot/facility/hokkaido_bank_curling_stadium/"
+    },
+    {
+      "slug": "hokkaido_coca_cola_bottling",
+      "path": "/spot/facility/hokkaido_coca_cola_bottling/"
+    },
+    {
+      "slug": "hokkaido_dosanko_plaza",
+      "path": "/spot/facility/hokkaido_dosanko_plaza/"
+    },
+    {
+      "slug": "hokkaido_museum_of_literature",
+      "path": "/spot/facility/hokkaido_museum_of_literature/"
+    },
+    {
+      "slug": "hokkaido_shoyu_company",
+      "path": "/spot/facility/hokkaido_shoyu_company/"
+    },
+    {
+      "slug": "hokkaido_shrine",
+      "path": "/spot/facility/hokkaido_shrine/"
+    },
+    {
+      "slug": "hokkaido_university",
+      "path": "/spot/facility/hokkaido_university/"
+    },
+    {
+      "slug": "hokkaido_university_museum",
+      "path": "/spot/facility/hokkaido_university_museum/"
+    },
+    {
+      "slug": "ishiyama_green_space",
+      "path": "/spot/facility/ishiyama_green_space/"
+    },
+    {
+      "slug": "jozangensen-park",
+      "path": "/spot/facility/jozangensen-park/"
+    },
+    {
+      "slug": "jozanke_natural_village",
+      "path": "/spot/facility/jozanke_natural_village/"
+    },
+    {
+      "slug": "jozankei-waiwai-farm",
+      "path": "/spot/facility/jozankei-waiwai-farm/"
+    },
+    {
+      "slug": "jozankei_onsen",
+      "path": "/spot/facility/jozankei_onsen/"
+    },
+    {
+      "slug": "jr-tower-observation-deck-t38",
+      "path": "/spot/facility/jr-tower-observation-deck-t38/"
+    },
+    {
+      "slug": "jr_tower",
+      "path": "/spot/facility/jr_tower/"
+    },
+    {
+      "slug": "koganeyu_hot_springs",
+      "path": "/spot/facility/koganeyu_hot_springs/"
+    },
+    {
+      "slug": "lake_shikotsu",
+      "path": "/spot/facility/lake_shikotsu/"
+    },
+    {
+      "slug": "maeda_forest_park",
+      "path": "/spot/facility/maeda_forest_park/"
+    },
+    {
+      "slug": "makomanai_park",
+      "path": "/spot/facility/makomanai_park/"
+    },
+    {
+      "slug": "maruyama_park",
+      "path": "/spot/facility/maruyama_park/"
+    },
+    {
+      "slug": "maruyama_zoo",
+      "path": "/spot/facility/maruyama_zoo/"
+    },
+    {
+      "slug": "megmilk_snow_brand_museum",
+      "path": "/spot/facility/megmilk_snow_brand_museum/"
+    },
+    {
+      "slug": "migishi_kotaro_museum_of_art",
+      "path": "/spot/facility/migishi_kotaro_museum_of_art/"
+    },
+    {
+      "slug": "mikaho_park",
+      "path": "/spot/facility/mikaho_park/"
+    },
+    {
+      "slug": "miyanomori_ski_jump_stadium",
+      "path": "/spot/facility/miyanomori_ski_jump_stadium/"
+    },
+    {
+      "slug": "moerenuma_park",
+      "path": "/spot/facility/moerenuma_park/"
+    },
+    {
+      "slug": "mount-sankaku",
+      "path": "/spot/facility/mount-sankaku/"
+    },
+    {
+      "slug": "mount_hakkenzan",
+      "path": "/spot/facility/mount_hakkenzan/"
+    },
+    {
+      "slug": "mount_moiwayama",
+      "path": "/spot/facility/mount_moiwayama/"
+    },
+    {
+      "slug": "mount_soranumadake",
+      "path": "/spot/facility/mount_soranumadake/"
+    },
+    {
+      "slug": "museum_of_modern_art",
+      "path": "/spot/facility/museum_of_modern_art/"
+    },
+    {
+      "slug": "museum_of_sculpture",
+      "path": "/spot/facility/museum_of_sculpture/"
+    },
+    {
+      "slug": "nagayama_takeshiro_residence",
+      "path": "/spot/facility/nagayama_takeshiro_residence/"
+    },
+    {
+      "slug": "nakajima_park",
+      "path": "/spot/facility/nakajima_park/"
+    },
+    {
+      "slug": "nijo_fish_market",
+      "path": "/spot/facility/nijo_fish_market/"
+    },
+    {
+      "slug": "nishioka_park",
+      "path": "/spot/facility/nishioka_park/"
+    },
+    {
+      "slug": "nopporo_forest_park",
+      "path": "/spot/facility/nopporo_forest_park/"
+    },
+    {
+      "slug": "norbesa",
+      "path": "/spot/facility/norbesa/"
+    },
+    {
+      "slug": "odori_park",
+      "path": "/spot/facility/odori_park/"
+    },
+    {
+      "slug": "odoribisse",
+      "path": "/spot/facility/odoribisse/"
+    },
+    {
+      "slug": "okurayama_viewing_point",
+      "path": "/spot/facility/okurayama_viewing_point/"
+    },
+    {
+      "slug": "porocle",
+      "path": "/spot/facility/porocle/"
+    },
+    {
+      "slug": "rokka_library",
+      "path": "/spot/facility/rokka_library/"
+    },
+    {
+      "slug": "salmon-specialty-store-sake-no-marukame",
+      "path": "/spot/facility/salmon-specialty-store-sake-no-marukame/"
+    },
+    {
+      "slug": "salmon-specialty-store-sato-suisan-2",
+      "path": "/spot/facility/salmon-specialty-store-sato-suisan-2/"
+    },
+    {
+      "slug": "salmon_museum",
+      "path": "/spot/facility/salmon_museum/"
+    },
+    {
+      "slug": "sapporo-childrens-puppet-theater-kogumaza",
+      "path": "/spot/facility/sapporo-childrens-puppet-theater-kogumaza/"
+    },
+    {
+      "slug": "sapporo-childrens-theater-yamabikoza",
+      "path": "/spot/facility/sapporo-childrens-theater-yamabikoza/"
+    },
+    {
+      "slug": "sapporo-community-plaza",
+      "path": "/spot/facility/sapporo-community-plaza/"
+    },
+    {
+      "slug": "sapporo-education-and-culture-hall",
+      "path": "/spot/facility/sapporo-education-and-culture-hall/"
+    },
+    {
+      "slug": "sapporo-pirka-kotan",
+      "path": "/spot/facility/sapporo-pirka-kotan/"
+    },
+    {
+      "slug": "sapporo-racecourse",
+      "path": "/spot/facility/sapporo-racecourse/"
+    },
+    {
+      "slug": "sapporo-science-center",
+      "path": "/spot/facility/sapporo-science-center/"
+    },
+    {
+      "slug": "sapporo-symphony-orchestra",
+      "path": "/spot/facility/sapporo-symphony-orchestra/"
+    },
+    {
+      "slug": "sapporo_agricultural_college_farm_no_2",
+      "path": "/spot/facility/sapporo_agricultural_college_farm_no_2/"
+    },
+    {
+      "slug": "sapporo_art_park",
+      "path": "/spot/facility/sapporo_art_park/"
+    },
+    {
+      "slug": "sapporo_bankei_ski_area",
+      "path": "/spot/facility/sapporo_bankei_ski_area/"
+    },
+    {
+      "slug": "sapporo_beer_garden",
+      "path": "/spot/facility/sapporo_beer_garden/"
+    },
+    {
+      "slug": "sapporo_central_wholesale_market",
+      "path": "/spot/facility/sapporo_central_wholesale_market/"
+    },
+    {
+      "slug": "sapporo_dome",
+      "path": "/spot/facility/sapporo_dome/"
+    },
+    {
+      "slug": "sapporo_factory",
+      "path": "/spot/facility/sapporo_factory/"
+    },
+    {
+      "slug": "sapporo_fujino_winery",
+      "path": "/spot/facility/sapporo_fujino_winery/"
+    },
+    {
+      "slug": "sapporo_hitsujigaoka_observation_hill",
+      "path": "/spot/facility/sapporo_hitsujigaoka_observation_hill/"
+    },
+    {
+      "slug": "sapporo_kokusai_skiing_resort",
+      "path": "/spot/facility/sapporo_kokusai_skiing_resort/"
+    },
+    {
+      "slug": "sapporo_moiwayama_ski_area",
+      "path": "/spot/facility/sapporo_moiwayama_ski_area/"
+    },
+    {
+      "slug": "sapporo_museum_activities_center",
+      "path": "/spot/facility/sapporo_museum_activities_center/"
+    },
+    {
+      "slug": "sapporo_teine",
+      "path": "/spot/facility/sapporo_teine/"
+    },
+    {
+      "slug": "sapporo_tv_tower",
+      "path": "/spot/facility/sapporo_tv_tower/"
+    },
+    {
+      "slug": "sapporo_underground_shopping_malls",
+      "path": "/spot/facility/sapporo_underground_shopping_malls/"
+    },
+    {
+      "slug": "sato-suisan",
+      "path": "/spot/facility/sato-suisan/"
+    },
+    {
+      "slug": "satoland",
+      "path": "/spot/facility/satoland/"
+    },
+    {
+      "slug": "seicomart",
+      "path": "/spot/facility/seicomart/"
+    },
+    {
+      "slug": "seikatei",
+      "path": "/spot/facility/seikatei/"
+    },
+    {
+      "slug": "senshu-an",
+      "path": "/spot/facility/senshu-an/"
+    },
+    {
+      "slug": "sewerage_science_museum",
+      "path": "/spot/facility/sewerage_science_museum/"
+    },
+    {
+      "slug": "shin-sapporo_shopping_district",
+      "path": "/spot/facility/shin-sapporo_shopping_district/"
+    },
+    {
+      "slug": "shiroi_koibito_park",
+      "path": "/spot/facility/shiroi_koibito_park/"
+    },
+    {
+      "slug": "shiryokan",
+      "path": "/spot/facility/shiryokan/"
+    },
+    {
+      "slug": "siesta-labo",
+      "path": "/spot/facility/siesta-labo/"
+    },
+    {
+      "slug": "sightseeing_volunteer_guide",
+      "path": "/spot/facility/sightseeing_volunteer_guide/"
+    },
+    {
+      "slug": "sousei_river_park",
+      "path": "/spot/facility/sousei_river_park/"
+    },
+    {
+      "slug": "studio-bnf",
+      "path": "/spot/facility/studio-bnf/"
+    },
+    {
+      "slug": "sunpiazza_aquarium",
+      "path": "/spot/facility/sunpiazza_aquarium/"
+    },
+    {
+      "slug": "takino_suzuran_hillside_park",
+      "path": "/spot/facility/takino_suzuran_hillside_park/"
+    },
+    {
+      "slug": "takino_suzuran_hillside_park_snow_world",
+      "path": "/spot/facility/takino_suzuran_hillside_park_snow_world/"
+    },
+    {
+      "slug": "tanukikoji_shopping_arcade",
+      "path": "/spot/facility/tanukikoji_shopping_arcade/"
+    },
+    {
+      "slug": "tanukiya",
+      "path": "/spot/facility/tanukiya/"
+    },
+    {
+      "slug": "teine_pool",
+      "path": "/spot/facility/teine_pool/"
+    },
+    {
+      "slug": "tenjinyama-park",
+      "path": "/spot/facility/tenjinyama-park/"
+    },
+    {
+      "slug": "theater_kino",
+      "path": "/spot/facility/theater_kino/"
+    },
+    {
+      "slug": "toyohira_park",
+      "path": "/spot/facility/toyohira_park/"
+    },
+    {
+      "slug": "tvtower_souvenir_shop",
+      "path": "/spot/facility/tvtower_souvenir_shop/"
+    },
+    {
+      "slug": "underground_walkway_gallery",
+      "path": "/spot/facility/underground_walkway_gallery/"
+    },
+    {
+      "slug": "watanabe_junichi_museum_of_literature",
+      "path": "/spot/facility/watanabe_junichi_museum_of_literature/"
+    },
+    {
+      "slug": "water_garden",
+      "path": "/spot/facility/water_garden/"
+    },
+    {
+      "slug": "waterworks_museum",
+      "path": "/spot/facility/waterworks_museum/"
+    },
+    {
+      "slug": "winter_sports_museum",
+      "path": "/spot/facility/winter_sports_museum/"
+    },
+    {
+      "slug": "yamaichi_yamashitasuisan",
+      "path": "/spot/facility/yamaichi_yamashitasuisan/"
+    },
+    {
+      "slug": "yoga-shala",
+      "path": "/spot/facility/yoga-shala/"
+    },
+    {
+      "slug": "yurigahara_park",
+      "path": "/spot/facility/yurigahara_park/"
+    },
+    {
+      "slug": "yuubokumin",
+      "path": "/spot/facility/yuubokumin/"
+    }
+  ],
+  "taxonomies": {
+    "spotcat": [
+      {
+        "id": 5231,
+        "slug": "sc13-ainu",
+        "name": "アイヌ文化"
+      },
+      {
+        "id": 5229,
+        "slug": "sc11-outdoor",
+        "name": "アウトドア"
+      },
+      {
+        "id": 10582,
+        "slug": "%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88",
+        "name": "イベント"
+      },
+      {
+        "id": 8250,
+        "slug": "%e3%81%8a%e5%9c%9f%e7%94%a3",
+        "name": "お土産"
+      },
+      {
+        "id": 5230,
+        "slug": "sc12-drink",
+        "name": "お酒"
+      },
+      {
+        "id": 647,
+        "slug": "sc-foods",
+        "name": "グルメ"
+      },
+      {
+        "id": 639,
+        "slug": "sc10-sports",
+        "name": "スポーツ"
+      },
+      {
+        "id": 6033,
+        "slug": "sc99-other",
+        "name": "その他"
+      },
+      {
+        "id": 6733,
+        "slug": "sc25-traffic",
+        "name": "交通"
+      },
+      {
+        "id": 641,
+        "slug": "sc09-recreational",
+        "name": "体験"
+      },
+      {
+        "id": 638,
+        "slug": "sc05-parks",
+        "name": "公園"
+      },
+      {
+        "id": 5228,
+        "slug": "sc07-yakei",
+        "name": "夜景"
+      },
+      {
+        "id": 6032,
+        "slug": "sc14-event",
+        "name": "大規模イベント"
+      },
+      {
+        "id": 6732,
+        "slug": "sc20-hotel",
+        "name": "宿泊"
+      },
+      {
+        "id": 5226,
+        "slug": "sc03-culture",
+        "name": "文化"
+      },
+      {
+        "id": 637,
+        "slug": "sc02-history",
+        "name": "歴史"
+      },
+      {
+        "id": 5225,
+        "slug": "sc01-onsen",
+        "name": "温泉"
+      },
+      {
+        "id": 5227,
+        "slug": "sc06-nature",
+        "name": "自然"
+      },
+      {
+        "id": 636,
+        "slug": "sc04-art",
+        "name": "芸術"
+      },
+      {
+        "id": 640,
+        "slug": "sc08-shops",
+        "name": "買物"
+      }
+    ],
+    "area": [
+      {
+        "id": 613,
+        "slug": "a01-chuo-03-susukino",
+        "name": "すすきの周辺"
+      },
+      {
+        "id": 601,
+        "slug": "a01-chuo",
+        "name": "中央区"
+      },
+      {
+        "id": 3777,
+        "slug": "a01-chuo-04-nakjima",
+        "name": "中島公園周辺"
+      },
+      {
+        "id": 602,
+        "slug": "a02-kita",
+        "name": "北区"
+      },
+      {
+        "id": 608,
+        "slug": "a07-minami",
+        "name": "南区"
+      },
+      {
+        "id": 605,
+        "slug": "a04-atsubetsu",
+        "name": "厚別区"
+      },
+      {
+        "id": 612,
+        "slug": "a01-chuo-02-odori",
+        "name": "大通周辺"
+      },
+      {
+        "id": 5239,
+        "slug": "a11-jozankei",
+        "name": "定山渓"
+      },
+      {
+        "id": 610,
+        "slug": "a09-teine",
+        "name": "手稲区"
+      },
+      {
+        "id": 611,
+        "slug": "a01-chuo-01-sapporo",
+        "name": "札幌駅周辺"
+      },
+      {
+        "id": 603,
+        "slug": "a10-higashi",
+        "name": "東区"
+      },
+      {
+        "id": 607,
+        "slug": "a06-kiyota",
+        "name": "清田区"
+      },
+      {
+        "id": 604,
+        "slug": "a03-shiroishi",
+        "name": "白石区"
+      },
+      {
+        "id": 609,
+        "slug": "a08-nishi",
+        "name": "西区"
+      },
+      {
+        "id": 606,
+        "slug": "a05-toyohira",
+        "name": "豊平区"
+      },
+      {
+        "id": 5240,
+        "slug": "a50-suburbs",
+        "name": "近郊"
+      }
+    ],
+    "season": [
+      {
+        "id": 629,
+        "slug": "m-10",
+        "name": "10月"
+      },
+      {
+        "id": 630,
+        "slug": "m-11",
+        "name": "11月"
+      },
+      {
+        "id": 631,
+        "slug": "m-12",
+        "name": "12月"
+      },
+      {
+        "id": 620,
+        "slug": "m-01",
+        "name": "1月"
+      },
+      {
+        "id": 621,
+        "slug": "m-02",
+        "name": "2月"
+      },
+      {
+        "id": 622,
+        "slug": "m-03",
+        "name": "3月"
+      },
+      {
+        "id": 623,
+        "slug": "m-04",
+        "name": "4月"
+      },
+      {
+        "id": 624,
+        "slug": "m-05",
+        "name": "5月"
+      },
+      {
+        "id": 625,
+        "slug": "m-06",
+        "name": "6月"
+      },
+      {
+        "id": 626,
+        "slug": "m-07",
+        "name": "7月"
+      },
+      {
+        "id": 627,
+        "slug": "m-08",
+        "name": "8月"
+      },
+      {
+        "id": 628,
+        "slug": "m-09",
+        "name": "9月"
+      },
+      {
+        "id": 635,
+        "slug": "s-winter",
+        "name": "冬"
+      },
+      {
+        "id": 633,
+        "slug": "s-summer",
+        "name": "夏"
+      },
+      {
+        "id": 632,
+        "slug": "s-spring",
+        "name": "春"
+      },
+      {
+        "id": 634,
+        "slug": "s-autumn",
+        "name": "秋"
+      },
+      {
+        "id": 5328,
+        "slug": "m-all",
+        "name": "通年"
+      }
+    ]
+  },
+  "source": "https://www.sapporo.travel/ko/wp-sitemap-posts-facility-1.xml"
+}
